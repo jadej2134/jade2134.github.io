@@ -44,10 +44,20 @@
     <div class="container-fluid bg-1">
         <div class="container">
 
-            <h1 class="margin text-center">Welcome Project</h1>
-            <p>I learned how to make a movie trailer</p>
-            <p>I made a simple website.</p>
-            <a href="#">preview of website</a><br>
+            <h1 class="margin text-center">Hidden Truth</h1>
+            Context
+            <p>We learned how to use css code and html code to make a movie website.I learned how to make a movie trailer by using codes like h1´s </p>
+      Content      
+<p>Me and my partner agreed on a movie that we thought would be intense and interesting, so as soon as we thought of one we began to create it</p>
+    Challenges
+<p>At first we were stuck on what type of logo to make that would look eye catching until I began to design one we liked. After the logo we were stuck on the certain colors we wanted to use for the website and if we wanted it to look mysterious or fun.</p>
+Takeaways
+* Having a plan
+* Communicating
+* Asking each other questions or feedback
+Reflection
+<p>After working on the project with my partner we came across many challenges that we overcame by communicating and asking for help when we needed it which made it easier to overcome any obstacles we faced.
+<a href="https://app.pickcode.io/share/cmhowa8sd6ezn11jy2a0ttkq1">Website</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
